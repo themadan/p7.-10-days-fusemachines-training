@@ -1,7 +1,9 @@
-<!---# Project Title
+# Emotion-detection
 
-One Paragraph of project description goes here
-
+Emotion detection from text.
+Number of category=6(joy,fear,anger,sadness,disgust,shame,guilt)
+Number of row=7446
+<!---
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
