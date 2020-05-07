@@ -1,7 +1,9 @@
 # Emotion-detection
 
 Emotion detection from text.
+
 Number of category=6(joy,fear,anger,sadness,disgust,shame,guilt)
+
 Number of row=7446
 <!---
 ## Getting Started
