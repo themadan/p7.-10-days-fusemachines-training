@@ -1,4 +1,4 @@
-# Project Title
+<!---# Project Title
 
 One Paragraph of project description goes here
 
@@ -85,4 +85,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Hat tip to anyone whose code was used
 * Inspiration
 * etc
-
+-->
