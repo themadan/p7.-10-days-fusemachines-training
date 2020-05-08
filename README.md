@@ -1,10 +1,20 @@
 # Emotion-detection
+## About project
 
-Emotion detection from text.
+* Emotion detection from text.
 
-Number of category=6(joy,fear,anger,sadness,disgust,shame,guilt)
+* Number of category=6(joy,fear,anger,sadness,disgust,shame,guilt)
 
-Number of row=7446
+* Number of row=7446
+
+## project structure
+
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
+## Prerequisites
+
+* 
+
 <!---
 ## Getting Started
 
