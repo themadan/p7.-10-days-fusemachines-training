@@ -11,9 +11,11 @@
 
 ![](https://github.com/themadan/p7.Emotion-detection/blob/master/images/project%20structure.png)
 
-## Prerequisites
+## Git and Jira Integration
 
 * 
+
+## Feature branch workflow
 
 <!---
 ## Getting Started
