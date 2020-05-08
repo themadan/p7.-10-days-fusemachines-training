@@ -16,6 +16,7 @@
 ## Spiral model
 ## Iterative and incremental model
 ## Agile for ML project.(Main point is client and developer work together in project)
+* continuous improvement
 * Agile methodologies are open to changing requirements over time and encourages constant feedback from the end users.
 *  Business stakeholders and developers must work together to align the product with customer needs and company goals.(main point)
 
