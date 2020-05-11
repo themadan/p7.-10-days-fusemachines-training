@@ -9,11 +9,13 @@
 
 ## project structure
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![](https://github.com/themadan/p7.Emotion-detection/blob/master/images/project%20structure.png)
 
-## Prerequisites
+## Git and Jira Integration
 
 * 
+
+## Feature branch workflow
 
 <!---
 ## Getting Started
