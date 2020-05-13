@@ -1,4 +1,8 @@
 # Emotion-detection
+
+![](https://raw.githubusercontent.com/themadan/p7.Emotion-detection/master/images/Plutchik-wheel-of-emotions.jpg)
+
+
 ## About project
 
 * Emotion detection from text.
